@@ -1,7 +1,6 @@
 # Collisions
 Simulating elastic collisions between round objects. Collisions take into account particle mass.
 
-Installation notes:
 Required libraries: pygame, decimal, math, sys, random
 
 General notes:
