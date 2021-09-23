@@ -1,5 +1,5 @@
 # Collisions
-Simulating elastic collisions between round objects. Collisions take into account particle mass.
+Project 2, simulating elastic collisions between round objects. Collisions take into account particle mass.
 
 Required libraries: pygame, decimal, math, sys, random
 
