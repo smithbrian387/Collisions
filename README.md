@@ -1,7 +1,7 @@
 # Collisions
 Project 2, simulating elastic collisions between round objects. Collisions take into account particle mass.
 
-Required libraries: pygame, decimal, math, sys, random
+Required libraries: pygame, numpy, decimal, math, sys, random
 
 General notes:
 Velocity and radii sliders affect new particles being added, not existing particles.
